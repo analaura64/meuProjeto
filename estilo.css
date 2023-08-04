@@ -11,4 +11,14 @@ li{
 h1{
     color: rgb(153, 182, 236);
 }
+img{
+    width: 100px;
+}
 
+.lista{
+    display: flex;
+    flex-wrap: wrap;
+}
+.lista div{
+    margin: 1em;
+}
