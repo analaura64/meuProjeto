@@ -21,4 +21,6 @@ img{
 }
 .lista div{
     margin: 1em;
+    max-width: 7em;
+    width: 7em;
 }
